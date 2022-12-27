@@ -1,7 +1,7 @@
 ![GitHub Banner](DESHONDIXONnewbanner.png)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=deshondixon&left_color=lightblue&right_color=gray&left_text=Hey%20Vistors👋 )
 
-<p align="center"> Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## <p align="center"> Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </p>
 
 <p align="center">
