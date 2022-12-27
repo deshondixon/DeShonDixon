@@ -1,6 +1,5 @@
 ![GitHub Banner](DESHONDIXONnewbanner.png)
 <h2 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-
 <p2 align="center"> 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=deshondixon&left_color=lightblue&right_color=gray&left_text=Hey%20Vistors👋 ) 
