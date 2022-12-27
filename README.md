@@ -1,16 +1,16 @@
-### Hi there 👋
+![GitHub Banner](DESHONDIXONnewbanner.png)
 
-<!--
-**deshondixon/DeShonDixon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/deshondixon/" target="blank" rel="noopener noreferrer"><img height="38" src="./icons8-linkedin-69.png"></a>&nbsp;&nbsp;
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/deshondixon/" target="blank" rel="noopener noreferrer"><img height="38" src="./icons8-linkedin-69.png"></a>&nbsp;&nbsp;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=deshondixon&left_color=lightblue&right_color=gray&left_text=Hey%20Vistors👋 )
+
+![GitHub followers](https://img.shields.io/github/followers/USER?style=social)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deshondixon&langs_count=10&layout=compact&show_icons=true&theme=github_dark)](https://github.com/deshondixon/github-readme-stats)
