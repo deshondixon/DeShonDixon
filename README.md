@@ -3,6 +3,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deshondixon/" target="blank" rel="noopener noreferrer"><img height="38" src="./icons8-linkedin-69.png"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/deshondixon/" target="blank" rel="noopener noreferrer"><img height="38" src="./icons8-mail-48.png"></a>&nbsp;&nbsp;
+  <a href="mailto:deshondixon@gmail.com" target="blank" rel="noopener noreferrer"><img height="38" src="./icons8-mail-48.png"></a>&nbsp;&nbsp;
   
 </p>
