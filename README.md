@@ -1,8 +1,6 @@
 ![GitHub Banner](DESHONDIXONnewbanner.png)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=deshondixon&left_color=lightblue&right_color=gray&left_text=Hello%20👀Vistors)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-
 <p align="center">
 Welcome! I’m DeShon Dixon. A US Army Veteran, I've recently transitioned into software development. 
 </p>
