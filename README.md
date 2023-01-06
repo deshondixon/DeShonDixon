@@ -2,13 +2,19 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=deshondixon&left_color=lightblue&right_color=gray&left_text=Hello%20👀Vistors)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-<p>
-Hey! I’m DeShon Dixon. A US Army Veteran, I've recently transitioned into software development. 
 
+<p align="center">
+Welcome! I’m DeShon Dixon. A US Army Veteran, I've recently transitioned into software development. 
+</p>
+
+<p align="center">
 The languages I utilize the most are JavaScript and Python. 
+</p>
 
+<p align="center">
 What I bring to a team is that I’m very coachable, eager to learn, and easy to work with. I’ve always worked jobs that involve me finding solutions for customer needs and have a strong passion for problem solving. 
-
+</p>
+<p align="center" >
 I’ve worked in sales, video editing, and as a mechanic in the army and they have always been favored because I listen with empathy and ensure expectations are met. I’m able to hold my own because I’m willing to listen to advice. I love to hear opinions on how I could be more effective. I strive to learn more and handle ambiguity well. 
 </p>
 <p align="center">
