@@ -2,7 +2,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=deshondixon&left_color=lightblue&right_color=gray&left_text=Hello%20👀Vistors)
 
 <p align="center">
-Welcome! I’m DeShon Dixon. A US Army Veteran, I've recently transitioned into software development. 
+Software Development Student and Army Veteran offering a strong foundation in software development and programming principles across multiple platforms. Offers knowledge of authoring code derived from designing, building, and maintaining websites using scripting languages, content creation tools, and digital media. Demonstrated history of producing high-quality project results; possesses an innate talent for quickly mastering technology and new concepts. 
 </p>
 
 <p align="center">
