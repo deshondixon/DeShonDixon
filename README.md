@@ -1,4 +1,4 @@
-![GitHub Banner](DESHONDIXONnewbanner.png)
+![GitHub Banner](banner.png)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdeshondixon%2FDeShonDixon.git&labelColor=%2337d67a&countColor=%23555555&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdeshondixon%2FDeShonDixon.git)
 
 <p align="center">
