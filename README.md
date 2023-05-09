@@ -1,5 +1,5 @@
 ![GitHub Banner](DESHONDIXONnewbanner.png)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=deshondixon&left_color=lightblue&right_color=gray&left_text=Hello%20👀Vistors)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdeshondixon%2FDeShonDixon.git&labelColor=%2337d67a&countColor=%23555555&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdeshondixon%2FDeShonDixon.git)
 
 <p align="center">
 Welcome! I’m DeShon Dixon. A US Army Veteran, I've recently transitioned into software development. 
