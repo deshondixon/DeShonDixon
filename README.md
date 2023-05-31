@@ -1,6 +1,6 @@
 <a align="center"> [⫸ PORTFOLIO ⫷](https://deshondixon.vercel.app/) </a>
 
-![GitHub Banner](update_banner.png)
+![GitHub Banner](update_banner2.png)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdeshondixon%2FDeShonDixon.git&labelColor=%bluea&countColor=%23555555&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdeshondixon%2FDeShonDixon.git)
 
 <p align="center">
